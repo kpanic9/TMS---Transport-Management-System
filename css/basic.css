@@ -1,0 +1,94 @@
+/* CSS Document */
+
+
+
+.pgeTitle{
+	padding:15px; 
+	color:#414141; 
+	background-color:#f9f9f9; 
+	border: 1px solid #c6c6c6; 
+	text-align:center; 
+	letter-spacing:0pt; 
+	word-spacing:1pt; 
+	font-size:40px; 
+	font-family:Verdana; 
+	line-height:25px; 
+	font-style:italic;
+}
+
+
+.txt{
+	 border-width:3px;
+	 border-style:solid;
+	 border-color:#cacaca;
+	 -webkit-border-radius: 3px;
+	 -moz-border-radius: 3px;
+	 border-radius: 3px;
+	 font-size:12px;
+	 font-family:arial;
+	 color:#2d2e2e;
+	 padding-left:5px;
+	 width:170px;
+	 height:29px;
+	 background: -moz-linear-gradient(top, #f4f4f4 30%, #ffffff 100%);
+	 background: -webkit-gradient(linear, left top, left bottom, color-stop(30%,#f4f4f4), color-stop(100%,#ffffff));
+	 background: -webkit-linear-gradient(top, #f4f4f4 30%,#ffffff 100%);
+	 background: -o-linear-gradient(top, #f4f4f4 30%,#ffffff 100%);
+	 background: -ms-linear-gradient(top, #f4f4f4 30%,#ffffff 100%);
+	 background: linear-gradient(to bottom, #f4f4f4 30%,#ffffff 100%);
+	 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f4f4f4', endColorstr='#ffffff',GradientType=0 );
+}
+
+
+.selct{
+	 border-width:3px;
+	 border-style:solid;
+	 border-color:#cacaca;
+	 border-radius: 3px;
+	 font-size:12px;
+	 font-family:arial;
+	 color:#2d2e2e;
+	 padding-left:5px;
+	 width:176px;
+	 height:36px;
+	
+}
+
+
+.btn{
+	   cursor:pointer;
+	   border-width:2px;
+	   border-style:solid;
+	   border-color:#ada5a5;
+	   -webkit-border-radius: 6px;
+	   -moz-border-radius: 6px;
+	   border-radius: 6px;
+	   text-align:center;
+	   width:112px;
+	   height:40px;
+	   padding-top:undefinedpx;
+	   padding-bottom:undefinedpx;
+	   font-size:15px;
+	   font-family:arial;
+	   color:#000;
+	   background:#d9cfcf;
+	   display:inline-block;
+}
+
+
+	   
+.PreviewButton:hover{
+	   background:#e85b4c;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+
+<head>
+        <meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+        <title>About Us</title>
+        <!-- TemplateEndEditable -->
+        <style type="text/css">
+			
+			
+		
+		
+		#nav_bar {
+			font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+			font-size: 36px;
+			font-color:#CCC;
+			font-style: normal;
+			font-weight: bold;
+			font-variant: normal;
+			text-transform: uppercase;
+			text-decoration: blink;
+			background-color: #000;
+			background-repeat: repeat;
+			background-position: left top;
+			word-spacing: normal;
+			list-style-type: none;
+			visibility: visible;
+			height: auto;
+			width: auto;
+			top: auto;
+			-webkit-transition: all;
+			-moz-transition: all;
+			-ms-transition: all;
+			-o-transition: all;
+			transition: all;
+		
+			color: #FFF;
+		
+			position: static;
+			width: 1366px;
+			top: 0px;
+			right: 0px;
+		}
+        </style>
+        <!-- TemplateBeginEditable name="head" -->
+        <!-- TemplateEndEditable -->
+</head>
+    
+    
+    
+    <body>
+    <div id="nav_bar" >
+        	<ul>
+            	<li>
+            	  <div>Content for New Div Tag Goes Here</div> 
+           	    <a href="../index.html">Home</a></li>
+            </ul>
+        </div>
+        
+    
+    	
+        
+        
+        <div>
+        	<table>
+            	<tr><td>Vision</td></tr>
+                <tr><td><p>To provide the public a safe, dependable and comfortable road passenger transport at 
+                a reasonable fare system through a staff dedicated to service and obtain the maximum utilization
+                of all resources functioning as a financially viable organization.</p></td></tr>
+          </table>
+    </div>
+        
+        
+        <div>
+        	<table>
+            	<tr><td>What do you think of us</td></tr>
+                <tr><td>
+                	<form method="post" action="#">
+                    	<input name="nic" type="text" maxlength="10" /><br/>
+                    	<textarea name="comment" rows="10" cols="10" > Let us know</textarea><br/>
+                		<input type="submit" value="Submit" />
+                </td></tr>
+            </table>
+        </div>
+        
+        
+        
+        
+        
+        
+</body>
+    
+</html>
+
